@@ -1,0 +1,59 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+.head{
+    background-color:black;
+    color:white;
+    margin-bottom: 10px;
+}
+h1{
+    padding-top:10px;
+   text-align:center;
+}
+ul{
+    text-align:center;
+     padding-bottom: 10px;
+}
+li{
+    color:grey;
+    display:inline;
+    text-align:center;
+    cursor:pointer;
+}
+li:hover{
+    color:white;
+}
+.box{
+    display:inline-block;
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+}
+.foods{
+    text-align:center;
+}
+h5:hover{
+  background-color:black;
+  color:white;
+  cursor:pointer;
+}
+.contact{
+    margin-top: 10px;;
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-bottom:10px;
+}
+table{
+    display:inline-block
+}
+.s{
+    background-color:yellow; 
+    color:black;
+    cursor:pointer;
+    width:500px;
+    margin : 5px auto;
+}
+.s:hover{
+    color:grey;}
